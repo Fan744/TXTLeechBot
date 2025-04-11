@@ -55,7 +55,7 @@ logging = logging.getLogger()
 
 
 bot = Client("bot",
-             bot_token=os.environ.get("7673929139:AAHcNTgYEkq4NdEozvQaO7kd6K6gErFp-0k"),
+             bot_token=os.environ.get("7915242807:AAEjOODYepNJI9gMi0LOf0cRWI1EYF865b0"),
              api_id=int(os.environ.get("28962746")),
              api_hash=os.environ.get("727457f88d661b08e636188a949cd9f3"))
 auth_users = [7228049098]
